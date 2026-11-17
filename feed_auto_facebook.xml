@@ -4,7 +4,32 @@
     <title>Auto Occasioni Milano</title>
     <link>https://www.autoccasionimilano.it</link>
     <description>Feed auto usate — Auto Occasioni Milano</description>
-    <lastBuildDate>Mon, 16 Nov 2026 01:06:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 02:30:02 +0000</lastBuildDate>
+    <item>
+      <id>44575</id>
+      <title>Volvo XC40 UNICO PROPRIETARIO – SERVICE COMPLETO</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/volvo-xc40-unico-proprietario-service-completo/</link>
+      <description>Volvo Volvo XC40 UNICO PROPRIETARIO – SERVICE COMPLETO — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Automatico.</description>
+      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/11/www.autoccasionimilano.it - volvo-xc40-unico-proprietario-service-completo-2.jpg</image_link>
+      <price>21490 EUR</price>
+      <availability>in stock</availability>
+      <condition>used</condition>
+      <auto:make>Volvo</auto:make>
+      <auto:model>XC40 UNICO PROPRIETARIO – SERVICE COMPLETO</auto:model>
+      <auto:year>2020</auto:year>
+      <auto:body_style>City Car</auto:body_style>
+      <auto:fuel_type>Diesel</auto:fuel_type>
+      <auto:transmission>Automatico</auto:transmission>
+      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
+      <auto:color>Blue</auto:color>
+      <auto:state_of_vehicle>used</auto:state_of_vehicle>
+      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
+      <auto:dealer_phone>+390248954311</auto:dealer_phone>
+      <auto:mileage>
+        <auto:value>51000</auto:value>
+        <auto:unit>KM</auto:unit>
+      </auto:mileage>
+    </item>
     <item>
       <id>44530</id>
       <title>Volkswagen Golf DISTRIBUZIONE ESEGUITA – NEOPATENTATI</title>
@@ -101,7 +126,7 @@
       <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
       <auto:dealer_phone>+390248954311</auto:dealer_phone>
       <auto:mileage>
-        <auto:value>108000</auto:value>
+        <auto:value>51000</auto:value>
         <auto:unit>KM</auto:unit>
       </auto:mileage>
     </item>

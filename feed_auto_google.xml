@@ -4,7 +4,36 @@
     <title>Auto Occasioni Milano</title>
     <link>https://www.autoccasionimilano.it</link>
     <description>Feed auto usate — Auto Occasioni Milano</description>
-    <lastBuildDate>Mon, 16 Nov 2026 01:06:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 02:30:02 +0000</lastBuildDate>
+    <item>
+      <title>Volvo XC40 UNICO PROPRIETARIO – SERVICE COMPLETO</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/volvo-xc40-unico-proprietario-service-completo/</link>
+      <description>Volvo Volvo XC40 UNICO PROPRIETARIO – SERVICE COMPLETO — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Automatico.</description>
+      <g:id>44575</g:id>
+      <g:store_code>12756304075837814277</g:store_code>
+      <g:link_template>https://www.autoccasionimilano.it/auto-usate-milano/volvo-xc40-unico-proprietario-service-completo/?store={store_code}&amp;utm_source=google&amp;utm_medium=vehicle_ads</g:link_template>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:vehicle_fulfillment>
+        <g:option>in_store</g:option>
+        <g:store_code>12756304075837814277</g:store_code>
+      </g:vehicle_fulfillment>
+      <g:google_product_category>916</g:google_product_category>
+      <g:image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/11/www.autoccasionimilano.it - volvo-xc40-unico-proprietario-service-completo-2.jpg</g:image_link>
+      <g:price>21490.00 EUR</g:price>
+      <g:sale_price>21490.00 EUR</g:sale_price>
+      <g:brand>Volvo</g:brand>
+      <g:make>Volvo</g:make>
+      <g:model>XC40 UNICO PROPRIETARIO – SERVICE COMPLETO</g:model>
+      <g:year>2020</g:year>
+      <g:date_first_registered>2020-06</g:date_first_registered>
+      <g:mileage>51000 km</g:mileage>
+      <g:body_style>city_car</g:body_style>
+      <g:fuel_type>diesel</g:fuel_type>
+      <g:transmission>automatic</g:transmission>
+      <g:color>Blue</g:color>
+      <g:item_group_id>volvo</g:item_group_id>
+    </item>
     <item>
       <title>Volkswagen Golf DISTRIBUZIONE ESEGUITA – NEOPATENTATI</title>
       <link>https://www.autoccasionimilano.it/auto-usate-milano/volkswagen-golf-distribuzione-eseguita-neopatentati/</link>
@@ -112,7 +141,7 @@
       <g:brand>Toyota</g:brand>
       <g:make>Toyota</g:make>
       <g:model>Yaris NEOPATENTATI – BENZINA – AREA B MILANO</g:model>
-      <g:mileage>108000 km</g:mileage>
+      <g:mileage>51000 km</g:mileage>
       <g:body_style>city_car</g:body_style>
       <g:fuel_type>gasoline</g:fuel_type>
       <g:transmission>manual</g:transmission>
