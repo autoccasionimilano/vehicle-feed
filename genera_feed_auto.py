@@ -186,18 +186,34 @@ def blocca(motivo):
     sys.exit(1)
 
 
-def richiesta(url, params=None):
-    """GET con un secondo tentativo. Ritorna la risposta o None se irraggiungibile."""
+ATTESE_RIPROVA = (5, 60, 180)  # API del sito: attese prima del 2°, 3° e 4° tentativo (secondi)
+ATTESE_PAGINA  = (5, 30)       # singola pagina auto: attese più brevi
+
+
+def _risposta_da_riprovare(r):
+    """Vero se il sito non ha risposto bene: errore del server, limite di
+    richieste o pagina di verifica/blocco (spesso temporanei di notte)."""
+    if r is None or r.status_code >= 500 or r.status_code in BLOCCO_STATUS:
+        return True
+    return bool(BLOCCO_PATTERNS.search(r.text[:5000]))
+
+
+def richiesta(url, params=None, attese=ATTESE_RIPROVA):
+    """GET con più tentativi distanziati (di base 5 s, 1 min, 3 min).
+    Ritorna l'ultima risposta, o None se il sito è irraggiungibile."""
     r = None
-    for tentativo in (1, 2):
+    for n in range(len(attese) + 1):
         try:
             r = requests.get(url, params=params, headers=HEADERS, timeout=30)
-            if r.status_code < 500:
-                return r
-        except requests.RequestException:
+        except requests.RequestException as e:
+            print(f"   tentativo {n + 1}: sito non raggiungibile ({type(e).__name__})")
             r = None
-        if tentativo == 1:
-            time.sleep(5)
+        if not _risposta_da_riprovare(r):
+            return r
+        if r is not None:
+            print(f"   tentativo {n + 1}: risposta {r.status_code}, riprovo")
+        if n < len(attese):
+            time.sleep(attese[n])
     return r
 
 
@@ -309,7 +325,7 @@ def scrape_dettagli(auto):
     prezzo, km, anno e stato venduto.
     Modifica il dict 'auto' in-place.
     """
-    r = richiesta(auto["link"])
+    r = richiesta(auto["link"], attese=ATTESE_PAGINA)
     if r is None:
         auto["motivo"] = "pagina non raggiungibile"
         return
@@ -601,8 +617,15 @@ def main():
 
     # 2. Scraping prezzo, km, stato per ogni auto
     print(f"\n🔍 Scraping dettagli ({len(listings)} auto, pausa {PAUSA_SEC}s)...")
+    escluse_finora = 0
     for i, auto in enumerate(listings, 1):
         scrape_dettagli(auto)
+        # Fermo subito se le escluse superano già il limite (sul totale, che è
+        # sempre >= delle non vendute): inutile continuare, il feed non si scriverebbe
+        if not auto["is_venduta"] and auto["motivo"]:
+            escluse_finora += 1
+            if escluse_finora > MAX_ESCLUSE * len(listings):
+                blocca(f"già {escluse_finora} auto escluse su {len(listings)}, oltre il limite")
         if i < len(listings):
             time.sleep(PAUSA_SEC)
 
