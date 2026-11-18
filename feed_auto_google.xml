@@ -4,7 +4,36 @@
     <title>Auto Occasioni Milano</title>
     <link>https://www.autoccasionimilano.it</link>
     <description>Feed auto usate — Auto Occasioni Milano</description>
-    <lastBuildDate>Wed, 18 Nov 2026 12:04:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 14:36:00 +0000</lastBuildDate>
+    <item>
+      <title>Ford Ka/Ka+ UNICO PROPRIETARIO – NEOPATENTATI</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/ford-ka-ka-unico-proprietario-neopatentati/</link>
+      <description>Ford Ford Ka/Ka+ UNICO PROPRIETARIO – NEOPATENTATI — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Manuale.</description>
+      <g:id>44675</g:id>
+      <g:store_code>12756304075837814277</g:store_code>
+      <g:link_template>https://www.autoccasionimilano.it/auto-usate-milano/ford-ka-ka-unico-proprietario-neopatentati/?store={store_code}&amp;utm_source=google&amp;utm_medium=vehicle_ads</g:link_template>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:vehicle_fulfillment>
+        <g:option>in_store</g:option>
+        <g:store_code>12756304075837814277</g:store_code>
+      </g:vehicle_fulfillment>
+      <g:google_product_category>916</g:google_product_category>
+      <g:image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/11/www.autoccasionimilano.it - bozza-automatica-264.jpg</g:image_link>
+      <g:price>6790.00 EUR</g:price>
+      <g:sale_price>6790.00 EUR</g:sale_price>
+      <g:brand>Ford</g:brand>
+      <g:make>Ford</g:make>
+      <g:model>Ka/Ka+ UNICO PROPRIETARIO – NEOPATENTATI</g:model>
+      <g:year>2018</g:year>
+      <g:date_first_registered>2018-12</g:date_first_registered>
+      <g:mileage>96000 km</g:mileage>
+      <g:body_style>sedan</g:body_style>
+      <g:fuel_type>gasoline</g:fuel_type>
+      <g:transmission>manual</g:transmission>
+      <g:color>Blue</g:color>
+      <g:item_group_id>ford</g:item_group_id>
+    </item>
     <item>
       <title>Fiat Punto Evo NEOPATENTATI – BENZINA – AREA B MILANO</title>
       <link>https://www.autoccasionimilano.it/auto-usate-milano/fiat-punto-evo-neopatentati-benzina-area-b-milano/</link>
@@ -170,7 +199,7 @@
       <g:brand>Toyota</g:brand>
       <g:make>Toyota</g:make>
       <g:model>Yaris NEOPATENTATI – BENZINA – AREA B MILANO</g:model>
-      <g:mileage>186000 km</g:mileage>
+      <g:mileage>96000 km</g:mileage>
       <g:body_style>city_car</g:body_style>
       <g:fuel_type>gasoline</g:fuel_type>
       <g:transmission>manual</g:transmission>
@@ -267,7 +296,7 @@
     <item>
       <title>Mercedes-Benz A 200 AMG – FATTURE MERCEDES – AUTOMATICA</title>
       <link>https://www.autoccasionimilano.it/auto-usate-milano/mercedes-benz-a-200-amg-fatture-mercedes-automaticadati-di-base-carrozzeria-berlina-tipo-di-veicolo-usato-trazione-anteriore-posti-5-porte-5-usato-garantito-12-mesi-disponibilita-immediatamente-di/</link>
-      <description>Ford Mercedes-Benz A 200 AMG – FATTURE MERCEDES – AUTOMATICA — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Automatico.</description>
+      <description>Mercedes-Benz Mercedes-Benz A 200 AMG – FATTURE MERCEDES – AUTOMATICA — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Automatico.</description>
       <g:id>43706</g:id>
       <g:store_code>12756304075837814277</g:store_code>
       <g:link_template>https://www.autoccasionimilano.it/auto-usate-milano/mercedes-benz-a-200-amg-fatture-mercedes-automaticadati-di-base-carrozzeria-berlina-tipo-di-veicolo-usato-trazione-anteriore-posti-5-porte-5-usato-garantito-12-mesi-disponibilita-immediatamente-di/?store={store_code}&amp;utm_source=google&amp;utm_medium=vehicle_ads</g:link_template>
@@ -281,9 +310,9 @@
       <g:image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/10/www.autoccasionimilano.it - bozza-automatica-204.jpg</g:image_link>
       <g:price>20490.00 EUR</g:price>
       <g:sale_price>20490.00 EUR</g:sale_price>
-      <g:brand>Ford</g:brand>
-      <g:make>Ford</g:make>
-      <g:model>Mercedes-Benz A 200 AMG – FATTURE MERCEDES – AUTOMATICA</g:model>
+      <g:brand>Mercedes-Benz</g:brand>
+      <g:make>Mercedes-Benz</g:make>
+      <g:model>A 200 AMG – FATTURE MERCEDES – AUTOMATICA</g:model>
       <g:year>2021</g:year>
       <g:date_first_registered>2021-04</g:date_first_registered>
       <g:mileage>114000 km</g:mileage>
@@ -291,7 +320,7 @@
       <g:fuel_type>gasoline</g:fuel_type>
       <g:transmission>automatic</g:transmission>
       <g:color>Bianco</g:color>
-      <g:item_group_id>ford</g:item_group_id>
+      <g:item_group_id>mercedes-benz</g:item_group_id>
     </item>
     <item>
       <title>Audi A3 SERVICE COMPLETO – NEOPATENTATI – UNICO PROPRIETARIO</title>
