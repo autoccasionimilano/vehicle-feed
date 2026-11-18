@@ -1,0 +1,24 @@
+name: Registra progetto Merchant (una volta)
+
+# Solo a mano, da Actions → Run workflow. Non parte mai da solo.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  registra:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - name: Installa dipendenze
+        run: pip install --quiet requests "google-auth==2.*"
+      - name: Registra
+        env:
+          MERCHANT_SA_JSON: ${{ secrets.MERCHANT_SA_JSON }}
+        run: python registra_progetto.py
