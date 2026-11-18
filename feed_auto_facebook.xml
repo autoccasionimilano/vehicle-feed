@@ -4,7 +4,32 @@
     <title>Auto Occasioni Milano</title>
     <link>https://www.autoccasionimilano.it</link>
     <description>Feed auto usate — Auto Occasioni Milano</description>
-    <lastBuildDate>Tue, 17 Nov 2026 03:58:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 01:38:23 +0000</lastBuildDate>
+    <item>
+      <id>44605</id>
+      <title>Fiat Punto Evo NEOPATENTATI – BENZINA – AREA B MILANO</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/fiat-punto-evo-neopatentati-benzina-area-b-milano/</link>
+      <description>Fiat Fiat Punto Evo NEOPATENTATI – BENZINA – AREA B MILANO — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Manuale.</description>
+      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/11/www.autoccasionimilano.it - bozza-automatica-196.jpg</image_link>
+      <price>2490 EUR</price>
+      <availability>in stock</availability>
+      <condition>used</condition>
+      <auto:make>Fiat</auto:make>
+      <auto:model>Punto Evo NEOPATENTATI – BENZINA – AREA B MILANO</auto:model>
+      <auto:year>2011</auto:year>
+      <auto:body_style>Berlina</auto:body_style>
+      <auto:fuel_type>Benzina</auto:fuel_type>
+      <auto:transmission>Manuale</auto:transmission>
+      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
+      <auto:color>Grigio</auto:color>
+      <auto:state_of_vehicle>used</auto:state_of_vehicle>
+      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
+      <auto:dealer_phone>+390248954311</auto:dealer_phone>
+      <auto:mileage>
+        <auto:value>186000</auto:value>
+        <auto:unit>KM</auto:unit>
+      </auto:mileage>
+    </item>
     <item>
       <id>44575</id>
       <title>Volvo XC40 UNICO PROPRIETARIO – SERVICE COMPLETO</title>
@@ -126,7 +151,7 @@
       <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
       <auto:dealer_phone>+390248954311</auto:dealer_phone>
       <auto:mileage>
-        <auto:value>51000</auto:value>
+        <auto:value>186000</auto:value>
         <auto:unit>KM</auto:unit>
       </auto:mileage>
     </item>
@@ -156,31 +181,6 @@
       </auto:mileage>
     </item>
     <item>
-      <id>44299</id>
-      <title>smart forTwo NEOPATENTATI – BENZINA – AREA B MILANO</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/smart-fortwo-neopatentati-benzina-area-b-milano/</link>
-      <description>Smart smart forTwo NEOPATENTATI – BENZINA – AREA B MILANO — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Automatico.</description>
-      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/11/www.autoccasionimilano.it - bozza-automatica-41.jpg</image_link>
-      <price>3990 EUR</price>
-      <availability>in stock</availability>
-      <condition>used</condition>
-      <auto:make>Smart</auto:make>
-      <auto:model>smart forTwo NEOPATENTATI – BENZINA – AREA B MILANO</auto:model>
-      <auto:year>2009</auto:year>
-      <auto:body_style>City Car</auto:body_style>
-      <auto:fuel_type>Benzina</auto:fuel_type>
-      <auto:transmission>Automatico</auto:transmission>
-      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
-      <auto:color>Bianco</auto:color>
-      <auto:state_of_vehicle>used</auto:state_of_vehicle>
-      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
-      <auto:dealer_phone>+390248954311</auto:dealer_phone>
-      <auto:mileage>
-        <auto:value>138000</auto:value>
-        <auto:unit>KM</auto:unit>
-      </auto:mileage>
-    </item>
-    <item>
       <id>44219</id>
       <title>Ford Kuga ST LINE – NAVIGATORE – AREA B MILANO</title>
       <link>https://www.autoccasionimilano.it/auto-usate-milano/ford-kuga-st-line-navigatore-area-b-milano/</link>
@@ -202,56 +202,6 @@
       <auto:dealer_phone>+390248954311</auto:dealer_phone>
       <auto:mileage>
         <auto:value>92000</auto:value>
-        <auto:unit>KM</auto:unit>
-      </auto:mileage>
-    </item>
-    <item>
-      <id>44154</id>
-      <title>Toyota RAV4 SERVICE COMPLETO – AUTOMATICO – PREZZO REALE SENZA VINCOLI</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/toyota-rav4-service-completo-automatico-prezzo-reale-senza-vincoli/</link>
-      <description>Toyota Toyota RAV4 SERVICE COMPLETO – AUTOMATICO – PREZZO REALE SENZA VINCOLI — Auto usata certificata. Garanzia 12 mesi inclusa. Elettrica / Benzina, Automatico.</description>
-      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/10/www.autoccasionimilano.it - bozza-automatica-373.jpg</image_link>
-      <price>17890 EUR</price>
-      <availability>in stock</availability>
-      <condition>used</condition>
-      <auto:make>Toyota</auto:make>
-      <auto:model>RAV4 SERVICE COMPLETO – AUTOMATICO – PREZZO REALE SENZA VINCOLI</auto:model>
-      <auto:year>2018</auto:year>
-      <auto:body_style>SUV</auto:body_style>
-      <auto:fuel_type>Elettrica / Benzina</auto:fuel_type>
-      <auto:transmission>Automatico</auto:transmission>
-      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
-      <auto:color>Bianco</auto:color>
-      <auto:state_of_vehicle>used</auto:state_of_vehicle>
-      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
-      <auto:dealer_phone>+390248954311</auto:dealer_phone>
-      <auto:mileage>
-        <auto:value>99980</auto:value>
-        <auto:unit>KM</auto:unit>
-      </auto:mileage>
-    </item>
-    <item>
-      <id>44101</id>
-      <title>Fiat 500 CATENA NUOVA – NEOPATENTATI</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/fiat-500-catena-nuova-neopatentati/</link>
-      <description>Fiat Fiat 500 CATENA NUOVA – NEOPATENTATI — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Manuale.</description>
-      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/10/www.autoccasionimilano.it - fiat-500-catena-nuova-neopatentati-2.jpg</image_link>
-      <price>5490 EUR</price>
-      <availability>in stock</availability>
-      <condition>used</condition>
-      <auto:make>Fiat</auto:make>
-      <auto:model>500 CATENA NUOVA – NEOPATENTATI</auto:model>
-      <auto:year>2011</auto:year>
-      <auto:body_style>City Car</auto:body_style>
-      <auto:fuel_type>Diesel</auto:fuel_type>
-      <auto:transmission>Manuale</auto:transmission>
-      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
-      <auto:color>Rosso</auto:color>
-      <auto:state_of_vehicle>used</auto:state_of_vehicle>
-      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
-      <auto:dealer_phone>+390248954311</auto:dealer_phone>
-      <auto:mileage>
-        <auto:value>99000</auto:value>
         <auto:unit>KM</auto:unit>
       </auto:mileage>
     </item>
@@ -506,31 +456,6 @@
       </auto:mileage>
     </item>
     <item>
-      <id>42220</id>
-      <title>BMW 318 MANUALE – NEOPATENTATI</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/bmw-318-manuale-neopatentati/</link>
-      <description>Bmw BMW 318 MANUALE – NEOPATENTATI — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Manuale.</description>
-      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/08/www.autoccasionimilano.it - bmw-318-manuale-neopatentati-2.jpg</image_link>
-      <price>2690 EUR</price>
-      <availability>in stock</availability>
-      <condition>used</condition>
-      <auto:make>Bmw</auto:make>
-      <auto:model>BMW 318 MANUALE – NEOPATENTATI</auto:model>
-      <auto:year>2009</auto:year>
-      <auto:body_style>Station Wagon</auto:body_style>
-      <auto:fuel_type>Diesel</auto:fuel_type>
-      <auto:transmission>Manuale</auto:transmission>
-      <auto:drivetrain>Trazione Posteriore</auto:drivetrain>
-      <auto:color>Grigio</auto:color>
-      <auto:state_of_vehicle>used</auto:state_of_vehicle>
-      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
-      <auto:dealer_phone>+390248954311</auto:dealer_phone>
-      <auto:mileage>
-        <auto:value>295000</auto:value>
-        <auto:unit>KM</auto:unit>
-      </auto:mileage>
-    </item>
-    <item>
       <id>42129</id>
       <title>Jeep Compass EURO 6 – NAVIGATORE</title>
       <link>https://www.autoccasionimilano.it/auto-usate-milano/jeep-compass-euro-6-navigatore/</link>
@@ -552,56 +477,6 @@
       <auto:dealer_phone>+390248954311</auto:dealer_phone>
       <auto:mileage>
         <auto:value>167000</auto:value>
-        <auto:unit>KM</auto:unit>
-      </auto:mileage>
-    </item>
-    <item>
-      <id>41082</id>
-      <title>Alfa Romeo Stelvio Q4 – DISTRIBUZIONE ESEGUITA – AUTOMATICA</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/alfa-romeo-stelvio-q4-distribuzione-eseguita-automatica/</link>
-      <description>Alfa Romeo Alfa Romeo Stelvio Q4 – DISTRIBUZIONE ESEGUITA – AUTOMATICA — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Automatico.</description>
-      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/07/www.autoccasionimilano.it - bozza-automatica-2.jpg</image_link>
-      <price>13990 EUR</price>
-      <availability>in stock</availability>
-      <condition>used</condition>
-      <auto:make>Alfa Romeo</auto:make>
-      <auto:model>Stelvio Q4 – DISTRIBUZIONE ESEGUITA – AUTOMATICA</auto:model>
-      <auto:year>2018</auto:year>
-      <auto:body_style>SUV</auto:body_style>
-      <auto:fuel_type>Diesel</auto:fuel_type>
-      <auto:transmission>Automatico</auto:transmission>
-      <auto:drivetrain>Quattro ruote (AWD/4WD)</auto:drivetrain>
-      <auto:color>Blue</auto:color>
-      <auto:state_of_vehicle>used</auto:state_of_vehicle>
-      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
-      <auto:dealer_phone>+390248954311</auto:dealer_phone>
-      <auto:mileage>
-        <auto:value>127000</auto:value>
-        <auto:unit>KM</auto:unit>
-      </auto:mileage>
-    </item>
-    <item>
-      <id>40798</id>
-      <title>Volkswagen T-Roc UNICO PROPRIETARIO – SERVICE COMPLETO</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/volkswagen-t-roc-unico-proprietario-service-completo/</link>
-      <description>Volkswagen Volkswagen T-Roc UNICO PROPRIETARIO – SERVICE COMPLETO — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Manuale.</description>
-      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/07/www.autoccasionimilano.it - volkswagen-t-roc-unico-proprietario-service-completo-1.jpg</image_link>
-      <price>13790 EUR</price>
-      <availability>in stock</availability>
-      <condition>used</condition>
-      <auto:make>Volkswagen</auto:make>
-      <auto:model>T-Roc UNICO PROPRIETARIO – SERVICE COMPLETO</auto:model>
-      <auto:year>2018</auto:year>
-      <auto:body_style>SUV</auto:body_style>
-      <auto:fuel_type>Diesel</auto:fuel_type>
-      <auto:transmission>Manuale</auto:transmission>
-      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
-      <auto:color>Nero</auto:color>
-      <auto:state_of_vehicle>used</auto:state_of_vehicle>
-      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
-      <auto:dealer_phone>+390248954311</auto:dealer_phone>
-      <auto:mileage>
-        <auto:value>77000</auto:value>
         <auto:unit>KM</auto:unit>
       </auto:mileage>
     </item>
