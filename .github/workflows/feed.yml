@@ -16,25 +16,37 @@ concurrency:
 jobs:
   feed:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 55
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.13"
       - name: Installa dipendenze
-        run: pip install --quiet requests
+        run: pip install --quiet requests "google-auth==2.*"
       - name: Genera feed
         run: python genera_feed_auto.py
       - name: Salva i file
+        id: salva
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898699+github-actions[bot]@users.noreply.github.com"
           git add feed_auto_google.xml feed_auto_facebook.xml esclusi.txt
+          # Merchant va avvisato solo se è cambiato il feed Google
+          if git diff --cached --quiet -- feed_auto_google.xml; then g=false; else g=true; fi
           if git diff --cached --quiet; then
             echo "Nessuna modifica"
+            echo "cambiato=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
           git commit -q -m "Aggiornamento feed $(date -u '+%Y-%m-%d %H:%M') UTC"
           git pull -q --rebase origin "$GITHUB_REF_NAME"
           git push -q origin "HEAD:$GITHUB_REF_NAME"
+          echo "cambiato=$g" >> "$GITHUB_OUTPUT"
+      - name: Avvisa Merchant
+        # Solo se il feed è cambiato: Merchant legge subito il file nuovo.
+        # Senza la chiave lo script non fa niente (resta la lettura delle 00:00).
+        if: steps.salva.outputs.cambiato == 'true'
+        env:
+          MERCHANT_SA_JSON: ${{ secrets.MERCHANT_SA_JSON }}
+        run: python avvisa_merchant.py
