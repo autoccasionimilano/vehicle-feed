@@ -180,9 +180,17 @@ def estrai_data_immatricolazione(html):
     return f"{match.group(2)}-{mese}"
 
 
+def nota_errore_github(testo):
+    """Scrive il motivo dell'errore come nota di GitHub Actions: si legge nella
+    pagina del giro anche senza accedere a GitHub."""
+    testo = str(testo).replace("%", "%25").replace("\r", "%0D").replace("\n", "%0A")
+    print(f"::error title=Feed non generato::{testo}", flush=True)
+
+
 def blocca(motivo):
     """Ferma tutto: nessun file viene scritto e il workflow risulta fallito."""
     print(f"❌ FEED NON GENERATO: {motivo}")
+    nota_errore_github(motivo)
     sys.exit(1)
 
 
@@ -658,4 +666,10 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except SystemExit:
+        raise
+    except BaseException as e:
+        nota_errore_github(f"errore imprevisto del programma: {type(e).__name__}: {e}")
+        raise
