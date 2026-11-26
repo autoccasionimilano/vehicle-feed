@@ -4,7 +4,7 @@
     <title>Auto Occasioni Milano</title>
     <link>https://www.autoccasionimilano.it</link>
     <description>Feed auto usate — Auto Occasioni Milano</description>
-    <lastBuildDate>Wed, 25 Nov 2026 22:14:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 22:12:39 +0000</lastBuildDate>
     <item>
       <title>Kia Sportage UNICO PROPRIETARIO – HYBRID</title>
       <link>https://www.autoccasionimilano.it/auto-usate-milano/kia-sportage-unico-proprietario-hybrid/</link>
@@ -35,35 +35,6 @@
       <g:item_group_id>kia</g:item_group_id>
     </item>
     <item>
-      <title>Peugeot 3008 BENZINA – NEOPATENTATI – AREA B MILANO</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/peugeot-3008-benzina-neopatentati-area-b-milano/</link>
-      <description>Peugeot Peugeot 3008 BENZINA – NEOPATENTATI – AREA B MILANO — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Manuale.</description>
-      <g:id>44823</g:id>
-      <g:store_code>12756304075837814277</g:store_code>
-      <g:link_template>https://www.autoccasionimilano.it/auto-usate-milano/peugeot-3008-benzina-neopatentati-area-b-milano/?store={store_code}&amp;utm_source=google&amp;utm_medium=vehicle_ads</g:link_template>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:vehicle_fulfillment>
-        <g:option>in_store</g:option>
-        <g:store_code>12756304075837814277</g:store_code>
-      </g:vehicle_fulfillment>
-      <g:google_product_category>916</g:google_product_category>
-      <g:image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/11/www.autoccasionimilano.it - bozza-automatica-348.jpg</g:image_link>
-      <g:price>3390.00 EUR</g:price>
-      <g:sale_price>3390.00 EUR</g:sale_price>
-      <g:brand>Peugeot</g:brand>
-      <g:make>Peugeot</g:make>
-      <g:model>3008 BENZINA – NEOPATENTATI – AREA B MILANO</g:model>
-      <g:year>2010</g:year>
-      <g:date_first_registered>2010-07</g:date_first_registered>
-      <g:mileage>214000 km</g:mileage>
-      <g:body_style>minivan</g:body_style>
-      <g:fuel_type>gasoline</g:fuel_type>
-      <g:transmission>manual</g:transmission>
-      <g:color>Nero</g:color>
-      <g:item_group_id>peugeot</g:item_group_id>
-    </item>
-    <item>
       <title>Daihatsu Terios 4X4 – GPL</title>
       <link>https://www.autoccasionimilano.it/auto-usate-milano/daihatsu-terios-4x4-gpl/</link>
       <description>Daihatsu Daihatsu Terios 4X4 – GPL — Auto usata certificata. Garanzia 12 mesi inclusa. Gpl, Manuale.</description>
@@ -91,35 +62,6 @@
       <g:transmission>manual</g:transmission>
       <g:color>Grigio</g:color>
       <g:item_group_id>daihatsu</g:item_group_id>
-    </item>
-    <item>
-      <title>Mazda 3 NEOPATENTATI – HYBRID – PREZZO REALE SENZA VINCOLI</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/mazda-3-neopatentati-hybrid-prezzo-reale-senza-vincoli/</link>
-      <description>Mazda Mazda 3 NEOPATENTATI – HYBRID – PREZZO REALE SENZA VINCOLI — Auto usata certificata. Garanzia 12 mesi inclusa. Elettrica / Benzina, Manuale.</description>
-      <g:id>44739</g:id>
-      <g:store_code>12756304075837814277</g:store_code>
-      <g:link_template>https://www.autoccasionimilano.it/auto-usate-milano/mazda-3-neopatentati-hybrid-prezzo-reale-senza-vincoli/?store={store_code}&amp;utm_source=google&amp;utm_medium=vehicle_ads</g:link_template>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:vehicle_fulfillment>
-        <g:option>in_store</g:option>
-        <g:store_code>12756304075837814277</g:store_code>
-      </g:vehicle_fulfillment>
-      <g:google_product_category>916</g:google_product_category>
-      <g:image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/11/www.autoccasionimilano.it - mazda-3-neopatentati-hybrid-prezzo-reale-senza-vincoli-2.jpg</g:image_link>
-      <g:price>16990.00 EUR</g:price>
-      <g:sale_price>16990.00 EUR</g:sale_price>
-      <g:brand>Mazda</g:brand>
-      <g:make>Mazda</g:make>
-      <g:model>3 NEOPATENTATI – HYBRID – PREZZO REALE SENZA VINCOLI</g:model>
-      <g:year>2021</g:year>
-      <g:date_first_registered>2021-02</g:date_first_registered>
-      <g:mileage>105000 km</g:mileage>
-      <g:body_style>sedan</g:body_style>
-      <g:fuel_type>hybrid</g:fuel_type>
-      <g:transmission>manual</g:transmission>
-      <g:color>Nero</g:color>
-      <g:item_group_id>mazda</g:item_group_id>
     </item>
     <item>
       <title>Volvo XC40 UNICO PROPRIETARIO – SERVICE COMPLETO</title>
@@ -308,8 +250,8 @@
       </g:vehicle_fulfillment>
       <g:google_product_category>916</g:google_product_category>
       <g:image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/11/www.autoccasionimilano.it - bozza-automatica-2.jpg</g:image_link>
-      <g:price>14790.00 EUR</g:price>
-      <g:sale_price>14790.00 EUR</g:sale_price>
+      <g:price>13470.00 EUR</g:price>
+      <g:sale_price>13470.00 EUR</g:sale_price>
       <g:brand>Ford</g:brand>
       <g:make>Ford</g:make>
       <g:model>Kuga ST LINE – NAVIGATORE – AREA B MILANO</g:model>
@@ -337,8 +279,8 @@
       </g:vehicle_fulfillment>
       <g:google_product_category>916</g:google_product_category>
       <g:image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/10/www.autoccasionimilano.it - bozza-automatica-332.jpg</g:image_link>
-      <g:price>15990.00 EUR</g:price>
-      <g:sale_price>15990.00 EUR</g:sale_price>
+      <g:price>15490.00 EUR</g:price>
+      <g:sale_price>15490.00 EUR</g:sale_price>
       <g:brand>Mercedes-Benz</g:brand>
       <g:make>Mercedes-Benz</g:make>
       <g:model>A 160 BENZINA – NEOPATENTATI – AREA B MILANO</g:model>
@@ -453,8 +395,8 @@
       </g:vehicle_fulfillment>
       <g:google_product_category>916</g:google_product_category>
       <g:image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/09/www.autoccasionimilano.it - bozza-automatica-443.jpg</g:image_link>
-      <g:price>15650.00 EUR</g:price>
-      <g:sale_price>15650.00 EUR</g:sale_price>
+      <g:price>15290.00 EUR</g:price>
+      <g:sale_price>15290.00 EUR</g:sale_price>
       <g:brand>Audi</g:brand>
       <g:make>Audi</g:make>
       <g:model>Q3 SERVICE COMPLETO – QUATTRO – S-LINE – PREZZO REALE SENZA VINCOLI</g:model>
@@ -685,8 +627,8 @@
       </g:vehicle_fulfillment>
       <g:google_product_category>916</g:google_product_category>
       <g:image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/06/www.autoccasionimilano.it - peugeot-308-unico-proprietario-automatica-neopatentati-2.jpg</g:image_link>
-      <g:price>9790.00 EUR</g:price>
-      <g:sale_price>9790.00 EUR</g:sale_price>
+      <g:price>8490.00 EUR</g:price>
+      <g:sale_price>8490.00 EUR</g:sale_price>
       <g:brand>Peugeot</g:brand>
       <g:make>Peugeot</g:make>
       <g:model>308 UNICO PROPRIETARIO – SENZA VINCOLI DI FINANZIAMENTO</g:model>
@@ -698,35 +640,6 @@
       <g:transmission>automatic</g:transmission>
       <g:color>Blue</g:color>
       <g:item_group_id>peugeot</g:item_group_id>
-    </item>
-    <item>
-      <title>Fiat 500C UNICO PROPRIETARIO – DISTRIBUZIONE ESEGUITA</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/fiat-500c-unico-proprietario-distribuzione-eseguita-2/</link>
-      <description>Fiat Fiat 500C UNICO PROPRIETARIO – DISTRIBUZIONE ESEGUITA — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Manuale.</description>
-      <g:id>39797</g:id>
-      <g:store_code>12756304075837814277</g:store_code>
-      <g:link_template>https://www.autoccasionimilano.it/auto-usate-milano/fiat-500c-unico-proprietario-distribuzione-eseguita-2/?store={store_code}&amp;utm_source=google&amp;utm_medium=vehicle_ads</g:link_template>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:vehicle_fulfillment>
-        <g:option>in_store</g:option>
-        <g:store_code>12756304075837814277</g:store_code>
-      </g:vehicle_fulfillment>
-      <g:google_product_category>916</g:google_product_category>
-      <g:image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/06/www.autoccasionimilano.it - fiat-500c-unico-proprietario-distribuzione-eseguita-2.jpg</g:image_link>
-      <g:price>6490.00 EUR</g:price>
-      <g:sale_price>6490.00 EUR</g:sale_price>
-      <g:brand>Fiat</g:brand>
-      <g:make>Fiat</g:make>
-      <g:model>500C UNICO PROPRIETARIO – DISTRIBUZIONE ESEGUITA</g:model>
-      <g:year>2011</g:year>
-      <g:date_first_registered>2011-06</g:date_first_registered>
-      <g:mileage>88000 km</g:mileage>
-      <g:body_style>city_car</g:body_style>
-      <g:fuel_type>gasoline</g:fuel_type>
-      <g:transmission>manual</g:transmission>
-      <g:color>Bianco</g:color>
-      <g:item_group_id>fiat</g:item_group_id>
     </item>
     <item>
       <title>Jeep Renegade UNICO PROPRIETARIO – SERVICE CASA MADRE</title>
