@@ -4,7 +4,7 @@
     <title>Auto Occasioni Milano</title>
     <link>https://www.autoccasionimilano.it</link>
     <description>Feed auto usate — Auto Occasioni Milano</description>
-    <lastBuildDate>Thu, 26 Nov 2026 22:12:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 20:10:45 +0000</lastBuildDate>
     <item>
       <title>Kia Sportage UNICO PROPRIETARIO – HYBRID</title>
       <link>https://www.autoccasionimilano.it/auto-usate-milano/kia-sportage-unico-proprietario-hybrid/</link>
@@ -149,35 +149,6 @@
       <g:transmission>automatic</g:transmission>
       <g:color>Grigio</g:color>
       <g:item_group_id>bmw</g:item_group_id>
-    </item>
-    <item>
-      <title>Fiat Qubo UNICO PROPRIETARIO – SERVICE COMPLETO</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/fiat-qubo-unico-proprietario-service-completo/</link>
-      <description>Fiat Fiat Qubo UNICO PROPRIETARIO – SERVICE COMPLETO — Auto usata certificata. Garanzia 12 mesi inclusa. Metano, Manuale.</description>
-      <g:id>44407</g:id>
-      <g:store_code>12756304075837814277</g:store_code>
-      <g:link_template>https://www.autoccasionimilano.it/auto-usate-milano/fiat-qubo-unico-proprietario-service-completo/?store={store_code}&amp;utm_source=google&amp;utm_medium=vehicle_ads</g:link_template>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:vehicle_fulfillment>
-        <g:option>in_store</g:option>
-        <g:store_code>12756304075837814277</g:store_code>
-      </g:vehicle_fulfillment>
-      <g:google_product_category>916</g:google_product_category>
-      <g:image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/11/www.autoccasionimilano.it - fiat-qubo-unico-proprietario-service-completo-2.jpg</g:image_link>
-      <g:price>9490.00 EUR</g:price>
-      <g:sale_price>9490.00 EUR</g:sale_price>
-      <g:brand>Fiat</g:brand>
-      <g:make>Fiat</g:make>
-      <g:model>Qubo UNICO PROPRIETARIO – SERVICE COMPLETO</g:model>
-      <g:year>2018</g:year>
-      <g:date_first_registered>2018-11</g:date_first_registered>
-      <g:mileage>55000 km</g:mileage>
-      <g:body_style>minivan</g:body_style>
-      <g:fuel_type>methane</g:fuel_type>
-      <g:transmission>manual</g:transmission>
-      <g:color>Bianco</g:color>
-      <g:item_group_id>fiat</g:item_group_id>
     </item>
     <item>
       <title>Toyota Yaris NEOPATENTATI – BENZINA – AREA B MILANO</title>
@@ -437,35 +408,6 @@
       <g:transmission>manual</g:transmission>
       <g:color>Grigio</g:color>
       <g:item_group_id>ford</g:item_group_id>
-    </item>
-    <item>
-      <title>Audi Q5 NEOPATENTATI – FATTURE AUDI</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/audi-q5-neopatentati-fatture-audi/</link>
-      <description>Audi Audi Q5 NEOPATENTATI – FATTURE AUDI — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Manuale.</description>
-      <g:id>43143</g:id>
-      <g:store_code>12756304075837814277</g:store_code>
-      <g:link_template>https://www.autoccasionimilano.it/auto-usate-milano/audi-q5-neopatentati-fatture-audi/?store={store_code}&amp;utm_source=google&amp;utm_medium=vehicle_ads</g:link_template>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:vehicle_fulfillment>
-        <g:option>in_store</g:option>
-        <g:store_code>12756304075837814277</g:store_code>
-      </g:vehicle_fulfillment>
-      <g:google_product_category>916</g:google_product_category>
-      <g:image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/09/www.autoccasionimilano.it - bozza-automatica-275.jpg</g:image_link>
-      <g:price>9990.00 EUR</g:price>
-      <g:sale_price>9990.00 EUR</g:sale_price>
-      <g:brand>Audi</g:brand>
-      <g:make>Audi</g:make>
-      <g:model>Q5 NEOPATENTATI – FATTURE AUDI</g:model>
-      <g:year>2012</g:year>
-      <g:date_first_registered>2012-12</g:date_first_registered>
-      <g:mileage>158000 km</g:mileage>
-      <g:body_style>suv</g:body_style>
-      <g:fuel_type>diesel</g:fuel_type>
-      <g:transmission>manual</g:transmission>
-      <g:color>Grigio</g:color>
-      <g:item_group_id>audi</g:item_group_id>
     </item>
     <item>
       <title>Mercedes-Benz GLA 220 PACCHETTO AMG – FATTURE MERCEDES</title>

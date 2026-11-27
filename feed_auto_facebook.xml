@@ -4,7 +4,7 @@
     <title>Auto Occasioni Milano</title>
     <link>https://www.autoccasionimilano.it</link>
     <description>Feed auto usate — Auto Occasioni Milano</description>
-    <lastBuildDate>Thu, 26 Nov 2026 22:12:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 20:10:45 +0000</lastBuildDate>
     <item>
       <id>44887</id>
       <title>Kia Sportage UNICO PROPRIETARIO – HYBRID</title>
@@ -127,31 +127,6 @@
       <auto:dealer_phone>+390248954311</auto:dealer_phone>
       <auto:mileage>
         <auto:value>209000</auto:value>
-        <auto:unit>KM</auto:unit>
-      </auto:mileage>
-    </item>
-    <item>
-      <id>44407</id>
-      <title>Fiat Qubo UNICO PROPRIETARIO – SERVICE COMPLETO</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/fiat-qubo-unico-proprietario-service-completo/</link>
-      <description>Fiat Fiat Qubo UNICO PROPRIETARIO – SERVICE COMPLETO — Auto usata certificata. Garanzia 12 mesi inclusa. Metano, Manuale.</description>
-      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/11/www.autoccasionimilano.it - fiat-qubo-unico-proprietario-service-completo-2.jpg</image_link>
-      <price>9490 EUR</price>
-      <availability>in stock</availability>
-      <condition>used</condition>
-      <auto:make>Fiat</auto:make>
-      <auto:model>Qubo UNICO PROPRIETARIO – SERVICE COMPLETO</auto:model>
-      <auto:year>2018</auto:year>
-      <auto:body_style>Monovolume</auto:body_style>
-      <auto:fuel_type>Metano</auto:fuel_type>
-      <auto:transmission>Manuale</auto:transmission>
-      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
-      <auto:color>Bianco</auto:color>
-      <auto:state_of_vehicle>used</auto:state_of_vehicle>
-      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
-      <auto:dealer_phone>+390248954311</auto:dealer_phone>
-      <auto:mileage>
-        <auto:value>55000</auto:value>
         <auto:unit>KM</auto:unit>
       </auto:mileage>
     </item>
@@ -377,31 +352,6 @@
       <auto:dealer_phone>+390248954311</auto:dealer_phone>
       <auto:mileage>
         <auto:value>73000</auto:value>
-        <auto:unit>KM</auto:unit>
-      </auto:mileage>
-    </item>
-    <item>
-      <id>43143</id>
-      <title>Audi Q5 NEOPATENTATI – FATTURE AUDI</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/audi-q5-neopatentati-fatture-audi/</link>
-      <description>Audi Audi Q5 NEOPATENTATI – FATTURE AUDI — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Manuale.</description>
-      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/09/www.autoccasionimilano.it - bozza-automatica-275.jpg</image_link>
-      <price>9990 EUR</price>
-      <availability>in stock</availability>
-      <condition>used</condition>
-      <auto:make>Audi</auto:make>
-      <auto:model>Q5 NEOPATENTATI – FATTURE AUDI</auto:model>
-      <auto:year>2012</auto:year>
-      <auto:body_style>SUV</auto:body_style>
-      <auto:fuel_type>Diesel</auto:fuel_type>
-      <auto:transmission>Manuale</auto:transmission>
-      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
-      <auto:color>Grigio</auto:color>
-      <auto:state_of_vehicle>used</auto:state_of_vehicle>
-      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
-      <auto:dealer_phone>+390248954311</auto:dealer_phone>
-      <auto:mileage>
-        <auto:value>158000</auto:value>
         <auto:unit>KM</auto:unit>
       </auto:mileage>
     </item>
